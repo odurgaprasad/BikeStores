@@ -53,3 +53,5 @@ This project focuses on building an interactive analytics solution for **Bike St
 ## 🛠 How to Use
 
 1. Clone the repository:
+
+git clone https://github.com/odurgaprasad/BikeStores.git
